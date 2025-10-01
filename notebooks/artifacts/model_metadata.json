@@ -1,0 +1,29 @@
+{
+  "model_type": "Softmax Regression (Multinomial Logistic Regression)",
+  "best_params": {
+    "C": 10,
+    "solver": "saga"
+  },
+  "training_accuracy": 0.919953596287703,
+  "validation_accuracy": 0.7810810810810811,
+  "test_accuracy": 0.7702702702702703,
+  "cv_mean_score": 0.7836438923395445,
+  "n_classes": 13,
+  "classes": [
+    "Cardiovascular / Pulmonary",
+    "ENT - Otolaryngology",
+    "Gastroenterology",
+    "Hematology - Oncology",
+    "Nephrology",
+    "Neurology",
+    "Neurosurgery",
+    "Obstetrics / Gynecology",
+    "Ophthalmology",
+    "Orthopedic",
+    "Pediatrics - Neonatal",
+    "Psychiatry / Psychology",
+    "Radiology"
+  ],
+  "vocabulary_size": 5000,
+  "training_date": "2025-10-02 02:23:38"
+}
