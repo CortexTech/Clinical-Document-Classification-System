@@ -1,8 +1,4 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
 
-But I can still help expand the README manually with **more details**. Since your project is named **Clinical-Document-Classification-System**, I’ll include likely components such as preprocessing, training, evaluation, and deployment support. Here’s an enriched version:
-
----
 
 # Clinical Document Classification System
 
@@ -86,8 +82,8 @@ The system uses **softmax regression (multinomial logistic regression)** as its 
 
 ## 📊 Results (Sample)
 
-* Accuracy: ~XX%
-* Macro F1-score: XX
+* Accuracy: 76%
+* Macro F1-score: 77
 * High performance on frequent specialties (General Medicine, Cardiology).
 * Some confusion between related specialties (e.g., Pulmonary vs Cardiovascular).
 
@@ -115,5 +111,3 @@ The system uses **softmax regression (multinomial logistic regression)** as its 
 This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
-
-👉 Would you like me to also include **sample commands for training and evaluating models from the CLI** (instead of only through Jupyter), in case you plan to expand the project beyond notebooks?
